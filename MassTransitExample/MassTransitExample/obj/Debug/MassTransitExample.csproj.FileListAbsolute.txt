@@ -1,0 +1,17 @@
+\\pazfs1\domain user backup\drose\documents\visual studio 2012\Projects\MassTransitExample\MassTransitExample\bin\Debug\MassTransitExample.dll
+\\pazfs1\domain user backup\drose\documents\visual studio 2012\Projects\MassTransitExample\MassTransitExample\bin\Debug\MassTransitExample.pdb
+\\pazfs1\domain user backup\drose\documents\visual studio 2012\Projects\MassTransitExample\MassTransitExample\bin\Debug\Magnum.dll
+\\pazfs1\domain user backup\drose\documents\visual studio 2012\Projects\MassTransitExample\MassTransitExample\bin\Debug\MassTransit.dll
+\\pazfs1\domain user backup\drose\documents\visual studio 2012\Projects\MassTransitExample\MassTransitExample\bin\Debug\MassTransit.Transports.RabbitMq.dll
+\\pazfs1\domain user backup\drose\documents\visual studio 2012\Projects\MassTransitExample\MassTransitExample\bin\Debug\Newtonsoft.Json.dll
+\\pazfs1\domain user backup\drose\documents\visual studio 2012\Projects\MassTransitExample\MassTransitExample\bin\Debug\RabbitMQ.Client.dll
+\\pazfs1\domain user backup\drose\documents\visual studio 2012\Projects\MassTransitExample\MassTransitExample\bin\Debug\Magnum.xml
+\\pazfs1\domain user backup\drose\documents\visual studio 2012\Projects\MassTransitExample\MassTransitExample\bin\Debug\MassTransit.pdb
+\\pazfs1\domain user backup\drose\documents\visual studio 2012\Projects\MassTransitExample\MassTransitExample\bin\Debug\MassTransit.xml
+\\pazfs1\domain user backup\drose\documents\visual studio 2012\Projects\MassTransitExample\MassTransitExample\bin\Debug\MassTransit.Transports.RabbitMq.pdb
+\\pazfs1\domain user backup\drose\documents\visual studio 2012\Projects\MassTransitExample\MassTransitExample\bin\Debug\MassTransit.Transports.RabbitMq.xml
+\\pazfs1\domain user backup\drose\documents\visual studio 2012\Projects\MassTransitExample\MassTransitExample\bin\Debug\Newtonsoft.Json.xml
+\\pazfs1\domain user backup\drose\documents\visual studio 2012\Projects\MassTransitExample\MassTransitExample\bin\Debug\RabbitMQ.Client.xml
+\\pazfs1\domain user backup\drose\documents\visual studio 2012\Projects\MassTransitExample\MassTransitExample\obj\Debug\MassTransitExample.csprojResolveAssemblyReference.cache
+\\pazfs1\domain user backup\drose\documents\visual studio 2012\Projects\MassTransitExample\MassTransitExample\obj\Debug\MassTransitExample.dll
+\\pazfs1\domain user backup\drose\documents\visual studio 2012\Projects\MassTransitExample\MassTransitExample\obj\Debug\MassTransitExample.pdb
