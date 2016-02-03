@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Threading;
 
 namespace MassTransitPub
 {
@@ -22,7 +23,7 @@ namespace MassTransitPub
             });
             _bus.Publish<SubmitOrder>(new SubmitOrderMessage());
             Console.Out.WriteLine("Submit Order Message Fired");
-            Console.Read();
+            Thread.Sleep(Timeout.Infinite);
         }
     }
 }
